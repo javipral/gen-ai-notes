@@ -8,8 +8,8 @@ Notes on the [Generative AI for Beginners](https://github.com/microsoft/generati
 6. [Building Text Generation Applications](./06%20-%20Building%20Text%20Generation%20Applications.md)
 7. [Building Generative AI-Powered Chat Applications](./07%20-%20Building%20Generative%20AI-Powered%20Chat%20Ap.md)
 8. [Building a Search Applications](./08%20-%20Building%20a%20Search%20Applications.md)
-9. Building Image Generation Applications
-10. Building Low Code AI Applications
+9. Building Image Generation Applications (no notes, practice only)
+10. Building Low Code AI Applications (no notes, practice only)
 11. [Integrating with function calling](./11%20-%20Integrating%20with%20function%20calling.md)
 12. [Designing UX for AI Applications](./12%20-%20Designing%20UX%20for%20AI%20Applications.md)
 13. [Securing Your Generative AI Applications](./13%20-%20Securing%20Your%20Generative%20AI%20Applications.md)
